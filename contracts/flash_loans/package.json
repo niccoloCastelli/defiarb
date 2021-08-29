@@ -1,0 +1,27 @@
+{
+  "name": "298-arbitrage-uniswap-sushiswap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
+    "pancakeswap-peripheral": "^1.1.0-beta.0",
+    "zeppelin-solidity": "^1.12.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

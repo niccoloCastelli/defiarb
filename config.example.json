@@ -1,0 +1,13 @@
+{
+	"NodeUrl": "",
+	"ContractAddress": "",
+	"ExecuteTrades": false,
+	"Db": {
+		"Host": "localhost",
+		"Port": "5432",
+		"DbName": "bscbot",
+		"User": "bscbot",
+		"Password": "bscbot",
+		"SslMode": false
+	}
+}
